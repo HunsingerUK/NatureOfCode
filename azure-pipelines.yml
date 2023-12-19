@@ -8,7 +8,7 @@ trigger:
 
 variables:
   uiSource: 'src'
-  uiBuild: 'public'
+  uiBuild: 'dist'
 
 pool:
   vmImage: ubuntu-latest
